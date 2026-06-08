@@ -1,1 +1,7 @@
 role,required_groups,notes
+All active employees,SG-LAB-Baseline-Employee,Baseline access required for all active employees
+Finance Analyst,"SG-LAB-Baseline-Employee; SG-LAB-Finance-Access",Finance users should not have HR IT Support or Operations access
+HR Coordinator,"SG-LAB-Baseline-Employee; SG-LAB-HR-Access",HR users should not retain Finance access after transfer
+IT Support Specialist,"SG-LAB-Baseline-Employee; SG-LAB-IT-Support-Access",IT support access should be removed during leaver cleanup
+Operations Specialist,"SG-LAB-Baseline-Employee; SG-LAB-Operations-Access",New hire should receive baseline and department access
+MFA Pilot User,SG-LAB-MFA-Pilot,Used only for MFA and Conditional Access validation
