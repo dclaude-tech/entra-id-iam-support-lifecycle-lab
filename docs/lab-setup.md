@@ -49,13 +49,13 @@ This is not a real organization. It is a fictional lab environment created for p
 
 ## Setup status
 
-| Setup item                          | Status      |
-| ----------------------------------- | ----------- |
-| Fictional users                     | Planned     |
-| Security groups                     | Planned     |
-| Starting group memberships          | Planned     |
-| Conditional Access MFA pilot policy | Planned     |
-| Ticket evidence screenshots         | Not started |
+| Setup item | Status |
+|---|---|
+| Fictional users | Created |
+| Security groups | Created |
+| Starting group memberships | Created |
+| Conditional Access MFA pilot policy | Planned |
+| Ticket evidence screenshots | Not started |
 
 ## Notes
 
