@@ -45,7 +45,7 @@ This is not a real organization. It is a fictional lab environment created for p
 
 | Policy name              | Purpose                                   | Status  |
 | ------------------------ | ----------------------------------------- | ------- |
-| CA-LAB-Require-MFA-Pilot | Require MFA for users in SG-LAB-MFA-Pilot | Planned |
+| CA-LAB-Require-MFA-Pilot | Require MFA for users in SG-LAB-MFA-Pilot | Created |
 
 ## Setup status
 
@@ -54,7 +54,7 @@ This is not a real organization. It is a fictional lab environment created for p
 | Fictional users | Created |
 | Security groups | Created |
 | Starting group memberships | Created |
-| Conditional Access MFA pilot policy | Planned |
+| Conditional Access MFA pilot policy | Created |
 | Ticket evidence screenshots | Not started |
 
 ## Notes
