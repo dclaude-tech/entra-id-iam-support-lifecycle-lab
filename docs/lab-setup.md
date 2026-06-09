@@ -43,10 +43,22 @@ This is not a real organization. It is a fictional lab environment created for p
 
 ## Conditional Access policy
 
-| Policy name              | Purpose                                   |
-| ------------------------ | ----------------------------------------- |
-| CA-LAB-Require-MFA-Pilot | Require MFA for users in SG-LAB-MFA-Pilot |
+| Policy name              | Purpose                                   | Status  |
+| ------------------------ | ----------------------------------------- | ------- |
+| CA-LAB-Require-MFA-Pilot | Require MFA for users in SG-LAB-MFA-Pilot | Planned |
+
+## Setup status
+
+| Setup item                          | Status      |
+| ----------------------------------- | ----------- |
+| Fictional users                     | Planned     |
+| Security groups                     | Planned     |
+| Starting group memberships          | Planned     |
+| Conditional Access MFA pilot policy | Planned     |
+| Ticket evidence screenshots         | Not started |
 
 ## Notes
 
 This lab uses fictional users and simulated tickets, but the evidence will be captured from Microsoft Entra ID.
+
+Sensitive tenant details will be redacted from screenshots before publishing, including full UPNs, tenant identifiers, object IDs, admin account names, IP addresses, location details, request IDs, and correlation IDs.
