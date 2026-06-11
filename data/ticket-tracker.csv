@@ -1,5 +1,5 @@
 ticket_id,title,user,scenario,priority,status,access_decision,action_summary,verification_result
-TKT-001,MFA sign-in review,Maya Chen,MFA validation,Medium,Not started,Pending,Pending MFA sign-in review,Pending
+TKT-001,MFA sign-in review,Maya Chen,MFA validation,Medium,Closed,Validated existing access,Reviewed sign-in evidence and Conditional Access result,Sign-in completed with expected MFA behavior
 TKT-002,New hire missing baseline access,Leo Grant,Joiner support,Medium,Not started,Pending,Pending baseline access review,Pending
 TKT-003,Mover access cleanup,Nina Patel,Mover support,High,Not started,Pending,Pending mover access cleanup,Pending
 TKT-004,Leaver account cleanup,Owen Brooks,Leaver support,High,Not started,Pending,Pending leaver cleanup,Pending
