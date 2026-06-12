@@ -49,16 +49,17 @@ This is not a real organization. It is a fictional lab environment created for p
 
 ## Setup status
 
-| Setup item | Status |
-|---|---|
-| Fictional users | Created |
-| Security groups | Created |
-| Starting group memberships | Created |
-| Conditional Access MFA pilot policy | Created |
-| Ticket evidence screenshots | Not started |
+| Setup item                          | Status    |
+| ----------------------------------- | --------- |
+| Fictional users                     | Created   |
+| Security groups                     | Created   |
+| Starting group memberships          | Created   |
+| Conditional Access MFA pilot policy | Created   |
+| Ticket evidence screenshots         | Completed |
+| Ticket documentation                | Completed |
 
 ## Notes
 
-This lab uses fictional users and simulated tickets, but the evidence will be captured from Microsoft Entra ID.
+This lab uses fictional users and simulated tickets, with evidence captured from Microsoft Entra ID in a controlled lab tenant.
 
-Sensitive tenant details will be redacted from screenshots before publishing, including full UPNs, tenant identifiers, object IDs, admin account names, IP addresses, location details, request IDs, and correlation IDs.
+Sensitive tenant details were redacted from screenshots before publishing, including full UPNs, tenant identifiers, object IDs, admin account names, IP addresses, location details, request IDs, and correlation IDs.
