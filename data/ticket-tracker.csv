@@ -2,5 +2,5 @@ ticket_id,title,user,scenario,priority,status,access_decision,action_summary,ver
 TKT-001,MFA sign-in review,Maya Chen,MFA validation,Medium,Closed,Validated existing access,Reviewed sign-in evidence and Conditional Access result,Sign-in completed with expected MFA behavior
 TKT-002,New hire missing baseline access,Leo Grant,Joiner support,Medium,Closed,Approved baseline access,Added user to SG-LAB-Baseline-Employee,User membership matched access matrix
 TKT-003,Mover access cleanup,Nina Patel,Mover support,High,Closed,Approved mover access cleanup,Added HR access and removed Finance access,User membership matched access matrix
-TKT-004,Leaver account cleanup,Owen Brooks,Leaver support,High,Not started,Pending,Pending leaver cleanup,Pending
+TKT-004,Leaver account cleanup,Owen Brooks,Leaver support,High,Closed,Approved leaver cleanup,Disabled account and removed active group access,Account disabled and group access removed
 TKT-005,Audit access validation,Sofia Rivera,Access validation,Low,Not started,Pending,Pending access validation,Pending
