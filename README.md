@@ -4,7 +4,7 @@
 
 This project is a hands-on IAM support lab built in Microsoft Entra ID.
 
-The lab simulates common user access support tickets an entry-level IAM Analyst may handle, including MFA validation, new hire access, mover cleanup, leaver cleanup, and access validation.
+The lab simulates common IAM support and identity operations tickets, including MFA validation, new hire access, mover cleanup, leaver cleanup, and access validation.
 
 I used fictional users, security groups, a simple access matrix, ticket documentation, and redacted screenshots to document how access issues can be reviewed, remediated, verified, and closed in a public-safe way.
 
